@@ -40,7 +40,7 @@ btn.addEventListener("click", ()=>{
         container.removeChild(column);
 
     })
-    let size = parseInt(prompt());
+    let size = parseInt(prompt("Enter Grid Size: "));
     let con = true;
     if(size > 100){
         alert("You can only input a maximum of 100");
