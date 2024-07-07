@@ -41,7 +41,15 @@ btn.addEventListener("click", ()=>{
 
     })
     let size = parseInt(prompt());
-    main(size);
+    let con = true;
+    if(size > 100){
+        alert("You can only input a maximum of 100");
+    }
+    else{
+        con = false;
+        main(size);
+
+    }
 })
 
 
