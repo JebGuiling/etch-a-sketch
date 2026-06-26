@@ -1,1 +1,2 @@
-Currently working on a etch a sketch project that requires me to use skills that I learned which is javascript, html, and css. 
+Created an etch-a-sketch project that allow me to deepen my knowledge in regards HTML, CSS, and Javascript.
+
